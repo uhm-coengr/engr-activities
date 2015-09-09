@@ -1,0 +1,44 @@
+
+* Science
+
+** materials
+
+** forces
+
+** structures
+
+* Math models
+
+** equations
+
+* Specs
+
+** highest
+
+** throughput of traffic
+
+** lowest budget
+
+** safety
+   - how to test this?
+
+** reliability
+
+* Tradeoffs
+
+** where to build
+
+** how many to build
+
+** how safe to build
+
+* limit
+
+** budge
+
+** materials
+
+** geography of river/canal
+
+* play zone
+  - 3d print portions

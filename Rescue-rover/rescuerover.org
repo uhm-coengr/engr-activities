@@ -1,0 +1,23 @@
+
+* materials
+| item                 |   amount | ~cost |
+|----------------------+----------+-------|
+| Wastebasket(sewer)   |        1 |       |
+| stuffed animal       |        1 |       |
+| clock/stop watch     |          |       |
+| string               | 3 meters |       |
+| construction paper   |          |       |
+| plastic bags         |          |       |
+| paperclips           |          |       |
+| brass fasteners      |          |       |
+| rubber bands         |          |       |
+| binder clips         |          |       |
+| clothespins          |          |       |
+| paper cups           |          |       |
+| paper plates         |          |       |
+| popsicle sticks      |          |       |
+| plastic spoons       |          |       |
+| tape                 |          |       |
+| meter stick          |          |       |
+| weights (coins, etc) |          |       |
+| scale                |          |       |
